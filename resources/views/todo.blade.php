@@ -3,7 +3,7 @@
         <div class="col-12 d-flex justify-content-center align-items-center">
             <div class="card w-50">
                 <div class="card-header">
-                    <h4>Todo App</h4>
+                    <h4>Todo Lists App</h4>
                 </div>
                 <div class="card-body">
                     <div class="row gap-2">
